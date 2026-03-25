@@ -38,5 +38,15 @@ git clone https://github.com/Snehilmakwana/AI-Robotic-Hand-Jarvis
 cd AI-Robotic-Hand-Jarvis
 pip install -r requirements.txt
 
+
+## ▶️ Usage
+
+Run the program:
+
+```bash
+python main.py
+
+
+
 ## 👨‍💻 Author
 Snehil Makwana
