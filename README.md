@@ -39,14 +39,5 @@ cd AI-Robotic-Hand-Jarvis
 pip install -r requirements.txt
 
 
-## ▶️ Usage
-
-Run the program:
-
-```bash
-python main.py
-
-
-
-## 👨‍💻 Author
+# 👨‍💻 Author
 Snehil Makwana
