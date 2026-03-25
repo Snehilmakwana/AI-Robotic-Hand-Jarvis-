@@ -31,5 +31,12 @@ https://www.instagram.com/p/DJT7b2EoOhM/?igsh=ZXdlbndwNGRmcXY1
 - Gazebo Simulation
 - Deep Learning Control
 
+## ⚡ Installation
+
+```bash
+git clone https://github.com/Snehilmakwana/AI-Robotic-Hand-Jarvis
+cd AI-Robotic-Hand-Jarvis
+pip install -r requirements.txt
+
 ## 👨‍💻 Author
 Snehil Makwana
